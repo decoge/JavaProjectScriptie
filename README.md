@@ -4,3 +4,5 @@ JavaProjectScriptie2
 ====================
 
 Java project for testing Continuous Integration
+
+- Testen Travis: OK
