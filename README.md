@@ -1,8 +1,9 @@
 [![Build Status](https://travis-ci.org/glendc1/JavaProjectScriptie2.svg?branch=master)](https://travis-ci.org/glendc1/JavaProjectScriptie2)
 
-JavaProjectScriptie2
+JavaProjectScriptie
 ====================
 
 Java project for testing Continuous Integration
 
 - Testen Travis: OK
+- Testen Jenkins: OK
