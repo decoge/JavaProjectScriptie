@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/glendc1/JavaProjectScriptie2.svg?branch=master)](https://travis-ci.org/glendc1/JavaProjectScriptie2)
+[![Build Status](https://travis-ci.org/glendc1/JavaProjectScriptie.svg?branch=master)](https://travis-ci.org/glendc1/JavaProjectScriptie)
 
 JavaProjectScriptie
 ====================
